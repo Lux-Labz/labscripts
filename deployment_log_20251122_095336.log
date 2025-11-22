@@ -1,0 +1,20 @@
+[0;32m=== Sat Nov 22 09:53:36 AM MST 2025: Starting deployment of nfs_setup.sh ===[0m
+[2025-11-22 09:53:37] 🚀 Deploying to: desktop00
+[2025-11-22 09:53:37] ✅ Script made executable on desktop00
+[sudo] password for lab: [2025-11-22 09:53:37] [0;32m✅ Deployment successful on desktop00[0m
+[2025-11-22 09:53:38] [1;33m⚠️ desktop01 unreachable. Skipping.[0m
+[2025-11-22 09:53:38] [1;33m⚠️ desktop02 unreachable. Skipping.[0m
+[2025-11-22 09:53:38] [1;33m⚠️ desktop03 unreachable. Skipping.[0m
+[2025-11-22 09:53:39] [1;33m⚠️ desktop04 unreachable. Skipping.[0m
+[2025-11-22 09:53:39] [1;33m⚠️ desktop05 unreachable. Skipping.[0m
+[2025-11-22 09:53:39] [1;33m⚠️ desktop06 unreachable. Skipping.[0m
+[2025-11-22 09:53:39] [1;33m⚠️ desktop07 unreachable. Skipping.[0m
+[2025-11-22 09:53:39] [1;33m⚠️ desktop08 unreachable. Skipping.[0m
+[2025-11-22 09:53:42] [1;33m⚠️ desktop09 unreachable. Skipping.[0m
+[2025-11-22 09:53:47] [1;33m⚠️ desktop10 unreachable. Skipping.[0m
+[2025-11-22 09:53:53] [1;33m⚠️ desktop11 unreachable. Skipping.[0m
+[2025-11-22 09:53:58] [1;33m⚠️ desktop12 unreachable. Skipping.[0m
+
+[0;32m=== Deployment Summary ===[0m
+[0;32m✅ Successful hosts:[0m desktop00
+[1;33m⚠️ Skipped/unreachable hosts:[0m desktop01 desktop02 desktop03 desktop04 desktop05 desktop06 desktop07 desktop08 desktop09 desktop10 desktop11 desktop12

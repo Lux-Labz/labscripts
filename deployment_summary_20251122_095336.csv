@@ -1,0 +1,14 @@
+Host,Status,Message
+desktop00,Success,Deployment completed successfully
+desktop01,Skipped,Host unreachable or SSH failed
+desktop02,Skipped,Host unreachable or SSH failed
+desktop03,Skipped,Host unreachable or SSH failed
+desktop04,Skipped,Host unreachable or SSH failed
+desktop05,Skipped,Host unreachable or SSH failed
+desktop06,Skipped,Host unreachable or SSH failed
+desktop07,Skipped,Host unreachable or SSH failed
+desktop08,Skipped,Host unreachable or SSH failed
+desktop09,Skipped,Host unreachable or SSH failed
+desktop10,Skipped,Host unreachable or SSH failed
+desktop11,Skipped,Host unreachable or SSH failed
+desktop12,Skipped,Host unreachable or SSH failed

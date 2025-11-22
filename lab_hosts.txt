@@ -1,4 +1,12 @@
 desktop00
+desktop01
+desktop02
+desktop03
+desktop04
+desktop05
+desktop06
+desktop07
+desktop08
 desktop09
 desktop10
 desktop11

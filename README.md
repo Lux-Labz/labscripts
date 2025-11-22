@@ -51,14 +51,14 @@ ssh-keygen -t ed25519
 2. Copy key to each lab host:
 
 ```bash
-ssh-copy-id username@labpc01
-ssh-copy-id username@labpc02
+ssh-copy-id -i ~/.ssh/id_ed25519.pub lab@desktop03
+ssh-copy-id -i ~/.ssh/id_ed25519.pub lab@desktop04
 ```
 
 3. Test SSH connection:
 
 ```bash
-ssh username@labpc01 "echo 'success'"
+ssh lab@desktop03 "echo 'success'"
 ```
 
 ---
